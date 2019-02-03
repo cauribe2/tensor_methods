@@ -9,3 +9,5 @@ In this project we implement two tensor methods for the minimization of p-th ord
 
 We develop the particular code for two classes of problems, namely: (1) The class of convex functions described in (Nesterov,2018) which are hard for tensor methods, we will refer to this functions as "hard tensor functions", (2) logistic regression problems.
 
+We will only implement third-order methods.
+
